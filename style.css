@@ -1,0 +1,59 @@
+#triptico{
+	border: 1px solid black;
+	width: 600px;
+	height: 478px;
+}
+.titulo1{
+	display: block;
+	text-align: center;
+	border-bottom: 1px solid black;
+	position: static;
+	font-size: 20px;
+	background-color: #FFC107;
+}
+.parr1{
+	text-align: justify;
+	border-right: 1px solid black;
+	width: 170px;
+	height: 454px;
+	float: left;
+}
+.parr2{
+	text-align: justify;
+	border-right: 1px solid black;
+	width: 245px;
+	height: 454px;
+	float: left;
+}
+.parr3{
+	text-align: justify;
+	width: 170px;
+	height: 454px;
+	float: left;
+}
+#bajada{
+	display: block;
+	text-align: center;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	position: static;
+	width: 600px;
+	background-color: #ffc107;
+}
+h2, h3{
+	text-align: center;
+}
+.pp{
+	margin:40px;
+	text-align: justify;
+}
+p{
+	margin: 20px;
+}
+a{
+	text-decoration: none;
+}
+img{
+	width: 100%;
+}
